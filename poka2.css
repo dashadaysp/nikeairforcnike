@@ -113,7 +113,7 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 140px;
+  gap: 40px;
   min-height: calc(100vh - 80px);
 }
       
@@ -137,13 +137,14 @@ ul {
   color: white;
   font-size: 38px;
 }
+
       
 .landing-page .content .info p {
   margin: 0;
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 15px;
   color: white;
-  text-align: justify;
+  text-align: left;
 }
 
 .landing-page .content .info button {
@@ -157,10 +158,11 @@ ul {
 }
       
 .landing-page .content .image img {
-  max-width: 420px;
+  max-width: 700px;
   margin-top: 50px;
-
 }
 
-
-
+.landing-page .content .info {
+  flex: 1;      
+  max-width: 700px;
+}
