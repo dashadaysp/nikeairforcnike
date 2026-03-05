@@ -49,7 +49,7 @@ ul {
 
 @media (min-width: 767px) {
   .container {
-    width: 1170px;
+    width: 1500px;
   }
 }
       
@@ -158,11 +158,10 @@ ul {
 }
       
 .landing-page .content .image img {
-  max-width: 700px;
+  max-width: 120%;
   margin-top: 50px;
 }
 
 .landing-page .content .info {
-  flex: 1;      
-  max-width: 700px;
-}
+  flex: 2;      
+  max-width: 1000px;
