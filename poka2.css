@@ -137,8 +137,6 @@ ul {
   color: white;
   font-size: 38px;
 }
-
-14) Размер и цвет шрифта в абзаце:
       
 .landing-page .content .info p {
   margin: 0;
@@ -160,4 +158,5 @@ ul {
 .landing-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
+
 }
