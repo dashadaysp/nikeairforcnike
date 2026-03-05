@@ -143,6 +143,7 @@ ul {
   line-height: 1.6;
   font-size: 15px;
   color: white;
+  text-align: justify;
 }
 
 .landing-page .content .info button {
@@ -160,4 +161,5 @@ ul {
   margin-top: 50px;
 
 }
+
 
